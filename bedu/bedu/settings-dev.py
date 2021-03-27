@@ -25,7 +25,7 @@ SECRET_KEY = 'x%zp2fr0!_)avg_^w+52_^fxg-z2w+zc_z8a$n$)ia&jf4sejc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['zahide.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
